@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CNN.png" tvg-name="CNN", CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1,FOX NEWS
-http://rv.imax.re:80/5124037472/1572081885/80998
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" tvg-name="FOX NEWS", FOX NEWS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24140.m3u8
 
 #EXTINF:-1,TODAY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
