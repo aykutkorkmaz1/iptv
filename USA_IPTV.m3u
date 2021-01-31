@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/CNN.png" tvg-name="CNN", CNN
+#EXTINF:-1,CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" tvg-name="FOX NEWS", FOX NEWS
+#EXTINF:-1,FOX NEWS
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24140.m3u8
 
 #EXTINF:-1,TODAY
@@ -32,8 +32,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+#EXTINF:-1,FOX BUSINESS 
+http://stream.streamhubtv.xyz:8080/marina/marina/22518
+
 #EXTINF:-1,WEATHER NATION 
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,CBS SPORTS HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -47,11 +50,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a617379
 #EXTINF:-1,FOX SPORTS 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 
+#EXTINF:-1,FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
 #EXTINF:-1,BEIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,NBA TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80959
 
 #EXTINF:-1,MLB NETWORKS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
@@ -96,10 +102,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/13
 
 #EXTINF:-1,HISTORY
-http://rv.imax.re:80/5124037472/1572081885/81017
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 
 #EXTINF:-1,MTV
-http://rv.imax.re:80/5124037472/1572081885/80988
+http://stream.streamhubtv.xyz:8080/marina/marina/22561
 
 #EXTINF:-1,MTV BIGGEST POP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -108,7 +114,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,YO! MTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,MTV SPANKIN' NEW
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -132,7 +138,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea0007
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 
 #EXTINF:-1,TBS
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24038.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 
 #EXTINF:-1,TLC
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/33.m3u8
@@ -147,25 +153,22 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24034.m3u8
+http://stream.streamhubtv.xyz:8080/marina/marina/22569
 
 #EXTINF:-1,USA NETWORK
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24143.m3u8
+http://stream.streamhubtv.xyz:8080/marina/marina/22643
 
 #EXTINF:-1,AMC
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8
 
 #EXTINF:-1,VH1
-http://194.40.241.218:83/live/directline76598/35222AM0203424421468352020/57.m3u8
+http://stream.streamhubtv.xyz:8080/marina/marina/22645
 
 #EXTINF:-1,SHOWTIME 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24121.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,E! ENTERTAINMENT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516?checkedby:hlscat.com
-
-#EXTINF:-1,FOX
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24047.m3u8
 
 #EXTINF:-1,A & E 
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8
@@ -174,7 +177,7 @@ http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35789
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 
 #EXTINF:-1,DISNEY CHANNEL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
