@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1, BNT 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_BNT_1_%282018-%29.svg/1200px-Logo_of_BNT_1_%282018-%29.svg.png",BNT 1 
 https://cdn.stgledai.org:8082/hls/bnt/index.m3u8?token=94d28b3d05852d6523c16643db4d7deb257977a1-b4249508ee02b3e993d29f7e013d84c1-1720187442-1720176642
-#EXTINF:-1, BNT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_of_BNT_2_%282018-%29.svg/1200px-Logo_of_BNT_2_%282018-%29.svg.png",BNT 2
 https://cdn.stgledai.org:8082/hls/bnt2/index.m3u8?token=b95ae9cd5452c1cc7e0e41b45c375a580bd9f6a2-962a6c0d19f842f7d0d350bf64c9859e-1720187479-1720176679
-#EXTINF:-1, BNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_of_BNT_3_%282018-%29.svg/1200px-Logo_of_BNT_3_%282018-%29.svg.png",BNT 3
 https://cdn.stgledai.org:8082/hls/bnthd/index.m3u8?token=eb2b4c1b566fcc7d64c1aeec166fd0f3f81b664c-04ee8a88f09e9358740f3aff3cd6949c-1720187513-1720176713
-#EXTINF:-1, BTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png",BTV
 https://cdn.stgledai.org:8082/hls/btv/index.m3u8?token=39409646cd186e681de6d3e9f479e8ad2fe7b629-ae301433922fef05d959b22687f5bc96-1720187564-1720176764
-#EXTINF:-1, BTV COMEDY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BTV_Comedy_Bulgaria_logo.svg/2560px-BTV_Comedy_Bulgaria_logo.svg.png",BTV COMEDY
 https://cdn.stgledai.org:8082/hls/btvcomedy/index.m3u8?token=0c612a6105f6c919ea0af04e1e6aba19ddede36e-ffd94e0fa38a01163ddaa7ae9c188613-1720189120-1720178320
-#EXTINF:-1, BTV ACTION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1280px-BTV_Action_Bulgaria_logo.svg.png",BTV ACTION
 https://cdn.stgledai.org:8082/hls/btvaction/index.m3u8?token=661201d4af2f814c7203d7b9518e0cc871a3d183-cc265aa1bc0cf6f7d2a1340dd01d1759-1720189572-1720178772
-#EXTINF:-1, BTV CINEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/BTV_Cinema.png",BTV CINEMA
 https://cdn.stgledai.org:8082/hls/btvcinema/index.m3u8?token=afc0038c11647cff7788802f17eef6218c2a84c7-3ca828285f96a5faa5f4f6597ad31693-1720189144-1720178344
-#EXTINF:-1, BTV LADY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BTV_Lady_Bulgaria_logo.svg/2560px-BTV_Lady_Bulgaria_logo.svg.png",BTV LADY
 https://cdn.stgledai.org:8082/hls/btvlady/index.m3u8?token=88e690fa9e7d395bf117f0b3da2501ee0f806c5e-107caa028637fd555d2f83ca4a1b3dec-1720189596-1720178796
-#EXTINF:-1, NOVA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png",NOVA TV
 https://cdn.stgledai.org:8082/hls/nova/index.m3u8?token=bf8e6550969328dff0d102ad690d723105dcba72-fec5cabf5eb58a60f5d36a963bbcc7cd-1720187613-1720176813
-#EXTINF:-1, KINO NOVA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kino_Nova_Bulgaria_logo.svg/1280px-Kino_Nova_Bulgaria_logo.svg.png",KINO NOVA
 https://cdn.stgledai.org:8082/hls/kino/index.m3u8?token=82372c5858ca2baa0287e72253d4040c6cfec268-e6f7f57ae1bd7067aef35cd98a72ca0a-1720189208-1720178408
-#EXTINF:-1, DIEMA FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/DiemaFamily_2011.png",DIEMA FAMILY
 https://cdn.stgledai.org:8082/hls/diemaf/index.m3u8?token=0d47ad5f40b2a23309299d49f9346c2c9d825661-d999071696b1c8bb4d5d34482240c8c1-1720189176-1720178376
 #EXTINF:-1, AMC
 https://cdn.stgledai.org:8082/hls/amc/index.m3u8?token=b635a5be22bb64ca0d6be8171fe59f0944eb3ce5-bfb3d9f531cb5efab031829dd6748d67-1720187671-1720176871
@@ -47,17 +47,17 @@ https://cdn.stgledai.org:8082/hls/24kitchen/index.m3u8?token=0c21f862157ba008ad1
 https://cdn.stgledai.org:8082/hls/planetafolk/index.m3u8?token=2f1af4124e2205dbc189e1b04ea48387b105c5cb-bb78c954775cc6bf5a69dcdbd51b7742-1720189759-1720178959
 #EXTINF:-1, CITY
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:-1, PLANETA HD
+#EXTINF:-1 tvg-logo="https://www.cem.bg/files/160336336651021.jpg",PLANETA HD
 https://cdn.stgledai.org:8082/hls/planetahd/index.m3u8?token=81faeb19983cae6b0672745647a4b0660e1c913e-3396ec1b4a836cc148f184930ad1cea5-1720189803-1720179003
-#EXTINF:-1, FEN TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ffzTPNX7yT2QSw5JAUEMfFsu8l9oBWLo3TsBG6hciu5oAt_ixEqUFXdI1Dc9v6lC62U_xstD=s900-c-k-c0x00ffffff-no-rj",FEN TV
 https://cdn.stgledai.org:8082/hls/fantv/index.m3u8?token=e1ff31eb312fd3e9f60118b42af7660144c6ed08-d3fb74f1fb255916603ec5738bfe7d09-1720189938-1720179138
-#EXTINF:-1, BALKANIKA TV
+#EXTINF:-1 tvg-logo="https://balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",BALKANIKA TV
 https://cdn.stgledai.org:8082/hls/balkanika/index.m3u8?token=b91f65397c824e5390eee9e4fde15dfee5b93660-60e1ec3df0d774ed79708bcf7fc6d2f3-1720189973-1720179173
 #EXTINF:-1, THE VOICE
 https://bss1.neterra.tv/thevoice/stream_0.m3u8
-#EXTINF:-1, EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153606",EUROSPORT 1
 https://cdn.stgledai.org:8082/hls/eurosport/index.m3u8?token=f5e0023b6e1fe7d9ceeee2bdae1b63c9e53454ca-a021fe3ef52fdfcc7843c6907c37b245-1720190121-1720179321
-#EXTINF:-1, EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://ru.programme-tv.xyz/ico/display_img.ru.php?src=cnVfRXVyb3Nwb3J0IDI%3D",EUROSPORT 2
 https://cdn.stgledai.org:8082/hls/eurosport2/index.m3u8?token=80b4972b7b577053775e2e725a2bef94053c1327-81c2d4701c57a7d1a73baf9802e92dfd-1720190077-1720179277
 #EXTINF:-1, RING BG
 https://cdn.stgledai.org:8082/hls/ringbg/index.m3u8?token=e929f6d13fe30dcdf27907f0160fcd5f8258db08-d3a05906d84521ba21298f7d112b169b-1720190160-1720179360
